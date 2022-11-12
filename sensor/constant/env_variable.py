@@ -1,4 +1,4 @@
-MONGODB_URL_KEY = "mongodb+srv://harishande24:harishande24@cluster0.n0nir97.mongodb.net/?retryWrites=true&w=majority"
+MONGODB_URL_KEY = "mongodb+srv://@cluster0.n0nir97.mongodb.net/?retryWrites=true&w=majority"
 
 AWS_ACCESS_KEY_ID_ENV_KEY = "AWS_ACCESS_KEY_ID"
 
