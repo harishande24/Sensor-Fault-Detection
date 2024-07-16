@@ -35,3 +35,9 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 
 ## Deployment Archietecture
 ![image](https://user-images.githubusercontent.com/57321948/193536973-4530fe7d-5509-4609-bfd2-cd702fc82423.png)
+
+Impact:
+
+Reduced Maintenance Costs: By accurately detecting APS-related faults, the model reduced unnecessary repairs, leading to significant cost savings.
+Improved Reliability: Enhanced the reliability of fault detection, ensuring timely and accurate maintenance actions.
+Operational Efficiency: Streamlined the process of fault detection and repair, contributing to better vehicle uptime and operational efficiency.
